@@ -1,0 +1,49 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url("/static/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon{
+    width: 5vh;
+    height: 5vh;
+    padding: 0%;
+    margin: 0%;
+}
+.add-img{
+    height: 10vh;
+    width: 10vh;
+}
+.form-bg{
+    background: rgba(255, 255, 255, 0.555);
+    width: 75vw;
+    height: 75vh;
+    border-radius: 50px;
+}
+.heading{
+    text-align: center;
+}
+
+.title{
+    text-align: left;
+    padding-left: 15px;
+    border-radius: 25px;
+}
+.fixed-textarea{
+    height: 70px;
+    width: 99%;
+    padding-left: 15px;
+    padding-top:2px ;
+    border-radius: 25px;
+    border: none;
+    resize: none;
+    overflow: auto;
+}
+.button__submit{
+    text-align: center;
+}
+.content{
+    height: 150px;
+}

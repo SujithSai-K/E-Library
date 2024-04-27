@@ -1,0 +1,33 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url("/static/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon{
+    width: 5vh;
+    height: 5vh;
+    padding: 0%;
+    margin: 0%;
+}
+.sec__table{
+    margin: 50px;
+    margin-top: 0%;
+}
+.sec__button{
+    text-align: center;
+    width:15%;
+}
+.table__title{
+    color: white;
+    margin: 50px;
+    margin-bottom: 0%;
+}
+.pie-img{
+    padding: 25px;
+    color: white;
+    text-align: center;
+    align-self: center;
+}

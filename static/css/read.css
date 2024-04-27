@@ -1,0 +1,46 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url("/static/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon{
+    width: 5vh;
+    height: 5vh;
+    padding: 0%;
+    margin: 0%;
+}
+.sec__table{
+    margin: 50px;
+    margin-top: 0%;
+}
+.sec__button{
+    text-align: center;
+    width:10%;
+}
+.table__title{
+    color: white;
+    margin: 50px;
+    margin-bottom: 0%;
+}
+.fixedarea{
+    width: 80%;
+    height: 60vh;
+    border: none;
+    resize: none;
+    border-radius: 25px;
+    padding: 15px;
+    font-size: 20px;
+}
+.content{
+    text-align: center;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.5);
+    width: 60%;
+    margin-top: 50px;
+}
+h2{
+    font-size: 75px;
+}
